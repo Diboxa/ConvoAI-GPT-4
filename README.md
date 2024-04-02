@@ -4,7 +4,8 @@
 
 Are you an enthusiastic developer looking to integrate powerful AI capabilities into your projects without breaking the bank? Well, you're in luck!
 
-ConvoAI API provides **FREE** access to plenty AI models including `gpt-4`, `claude-3`, `dall-e-3`, and over 70 more, ensuring a cost-effective and dependable solution for your needs!
+ConvoAI API provides **FREE** access to plenty AI models including `gpt-4`, `claude-3`, `dall-e-3`, and over 80 more,
+ensuring a cost-effective and dependable solution for your needs!
 
 
 ### Getting Started
