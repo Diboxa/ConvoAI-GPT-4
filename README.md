@@ -8,6 +8,13 @@ ConvoAI API provides **FREE** access to plenty AI models including `gpt-4`, `cla
 ensuring a cost-effective and dependable solution for your needs!
 
 
+### Impressive speeds
+
+According to some benchmark tests, ConvoAI is one of the fastest APIs on the market.
+
+![image](https://github.com/Convo-AI/ConvoAI-GPT-4/assets/87082036/04e60fef-b208-486a-a8d6-6d20745b8a17)
+
+
 ### Getting Started
 
 Getting your hands on a complimentary ConvoAI API key is a breeze! Just follow these simple steps:
