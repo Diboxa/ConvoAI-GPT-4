@@ -22,7 +22,7 @@ Getting your hands on a complimentary ConvoAI API key is a breeze! Just follow t
 1. **Join Up:** Join our [Discord Server](https://dc.convoai.tech) (https://discord.com/invite/taH8UnARwd).
 2. **Generate Key:** Head over to our [Bot Channel](https://discord.com/channels/1205754298567495690/1205754299053768729) and type `/key` to create your unique API key.
 
-### ConvoAI Models (86 Total)
+### ConvoAI Models (85 Total)
 
 Explore our extensive range of models [here](https://api.convoai.tech/v1/models).
 
